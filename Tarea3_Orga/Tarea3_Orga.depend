@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1414833559 source:c:\users\usuario1\documents\ceutec\orga\tarea3_orga\main.cpp
+	<iostream>
+	<fstream>
+	<list>
+	<string>
+	<dirent.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
